@@ -65,3 +65,5 @@ The project is live on Vercel:
 👨‍💻 Author:
 ~ Mohamed Adhnan – Aspiring Frontend Developer
 ~ Completed this project using React + Vite + Tailwind CSS, inspired by Apple’s design philosophy.
+
+Thank you for visiting my Apple-Clone website.
